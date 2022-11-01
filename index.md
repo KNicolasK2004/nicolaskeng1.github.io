@@ -29,27 +29,38 @@
 ## 学习资料
 
 ### 数学分析
+
 主力书籍：数学分析, 陈纪修; Fourier Analysis, Stein; 
+
 参考书籍：Analysis, Amann; 数学分析, Zorich; Baby Rudin; 数学分析习题课讲义, 谢惠民;
 
 ### 高等代数
+
 主力书籍：高等代数学, 谢启鸿(白皮+绿皮); 高等代数学, 张贤科;
+
 参考书籍：代数学引论, 柯斯特利金; 线性代数, 李尚志; 线性代数, 李炯生; Done Right; 矩阵论, 詹兴致;
+
 笔记/提纲：
 
 ### 抽象代数
+
 主力书籍：GTM073, Hungerford;
+
 参考书籍：GTM211, Lang; Abstract Algebra, Dummit; 代数学方法, 李文威;
 
 ### 复分析
+
 主力书籍：复变函数论, 钟玉泉; Complex Analysis, Stein;
+
 参考书籍：Ahlfors; Marshall
 
 ### 常微分方程
+
 主力书籍：常微分方程, 丁同仁;
+
 参考书籍：GTM182, Walter; 常微分方程, 柳斌;
 
 ## 友情链接
 > [USTC学习资料](http://home.ustc.edu.cn/~yx3x/USTCdata.html)
 
-> [山东大学](https://www.sdu.edu.cn/)
+> [山东大学官网](https://www.sdu.edu.cn/)
